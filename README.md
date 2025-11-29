@@ -1,31 +1,51 @@
-# Welcome to Aloysious's Hub!
+<!-- ============================
+      ALOYSIOUS'S GREEN THEME README
+     ============================ -->
 
-Hello! I'm Aloysious-Kalathil, a B.Tech student in Computer Science and Engineering. I'm passionate about coding, web design, and UI/UX.
+<h1 align="center" style="color:#32CD32;">💚 Welcome to Aloysious's Hub! 💚</h1>
 
-## About Me
-
-- 🎓 Currently pursuing my B.Tech in Computer Science and Engineering.
-- 💻 Skilled in C, C++, web design, and UI/UX.
-- 🚀 I've worked on projects like a gym tracking app and a shipment tracking app using blockchain.
-
-## Technologies
-
-Here are some of the technologies and tools I use:
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-
-## Contact Me
-
-Feel free to reach out to me via email or Discord:
-
-- 📧 Email: aloysiouskalathil@gmail.com.
-- 💬 Discord: aloysiouskalathil.
+<p align="center">
+  <em style="color:#2ECC71;">B.Tech CSE Student | Developer | UI/UX Enthusiast</em>
+</p>
 
 ---
 
-Feel free to explore my repositories and see what I'm working on. Thanks for visiting!
+## <span style="color:#32CD32;">🌿 About Me</span>
+
+Hello! I'm **Aloysious-Kalathil**, a B.Tech student in Computer Science and Engineering.  
+I'm passionate about **coding, web design, and UI/UX**.
+
+- 🎓 Currently pursuing my B.Tech in **Computer Science and Engineering**  
+- 💻 Skilled in **C**, **C++**, **web design**, **UI/UX**  
+- 🚀 Built:
+  - A **Gym Tracking App**  
+  - A **Shipment Tracking app** using **Blockchain**  
+
+---
+
+## <span style="color:#32CD32;">🛠️ Technologies I Use</span>
+
+<p>
+  <img src="https://img.shields.io/badge/-C-2ECC71?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-27AE60?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-28B463?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-239B56?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-1E8449?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## <span style="color:#32CD32;">📞 Contact Me</span>
+
+Feel free to reach out anytime!
+
+- 📧 **Email:** aloysiouskalathil@gmail.com  
+- 💬 **Discord:** aloysiouskalathil  
+
+---
+
+## <span style="color:#2ECC71;">💚 Thank You for Visiting!</span>
+
+Explore my repositories and check out what I'm working on next!  
+Your support means a lot 🍀
+
