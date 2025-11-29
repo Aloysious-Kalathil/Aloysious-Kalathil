@@ -1,6 +1,6 @@
-# Welcome to Aloysius's Hub!
+# Welcome to Aloysious's Hub!
 
-Hello! I'm Aloysius-Karthil, a B.Tech student in Computer Science and Engineering. I'm passionate about coding, web design, and UI/UX.
+Hello! I'm Aloysious-Kalathil, a B.Tech student in Computer Science and Engineering. I'm passionate about coding, web design, and UI/UX.
 
 ## About Me
 
