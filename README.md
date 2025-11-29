@@ -18,16 +18,13 @@ Here are some of the technologies and tools I use:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## Statistics
-
-![Aloysius's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloysius-karthik&show_icons=true)
 
 ## Contact Me
 
 Feel free to reach out to me via email or Discord:
 
-- 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-- 💬 Discord: YourDiscordUsername#1234
+- 📧 Email: aloysiouskalathil@gmail.com.
+- 💬 Discord: aloysiouskalathil.
 
 ---
 
